@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nico\\Desktop\\prog\\ACT00_REVISION_VersionBASE\\",
+  "WorkspaceRootPath": "C:\\Users\\Nico\\github\\UAA14\\c#\\ACT00_REVISION_VersionBASE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|c:\\users\\nico\\desktop\\prog\\act00_revision_versionbase\\act00_revision\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act00_revision_versionbase\\act00_revision\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|solutionrelative:act00_revision\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|c:\\users\\nico\\desktop\\prog\\act00_revision_versionbase\\act00_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act00_revision_versionbase\\act00_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{090E71F8-E397-48D9-96D0-383F0ED48625}|ACT00_REVISION\\ACT00_REVISION.csproj|solutionrelative:act00_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MethodesDuProjet.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\prog\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\MethodesDuProjet.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\MethodesDuProjet.cs",
               "RelativeDocumentMoniker": "ACT00_REVISION\\MethodesDuProjet.cs",
-              "ToolTip": "C:\\Users\\Nico\\Desktop\\prog\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\MethodesDuProjet.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\MethodesDuProjet.cs",
               "RelativeToolTip": "ACT00_REVISION\\MethodesDuProjet.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwB8AAAAdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T11:15:36.586Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\prog\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\Program.cs",
               "RelativeDocumentMoniker": "ACT00_REVISION\\Program.cs",
-              "ToolTip": "C:\\Users\\Nico\\Desktop\\prog\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\Program.cs",
               "RelativeToolTip": "ACT00_REVISION\\Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwA8AAAAcAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T11:15:37.489Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\bin\Debug\net8.0\6TTI_NicolasPonchaut_ex2.exe
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\bin\Debug\net8.0\6TTI_NicolasPonchaut_ex2.deps.json
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\bin\Debug\net8.0\6TTI_NicolasPonchaut_ex2.runtimeconfig.json
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\bin\Debug\net8.0\6TTI_NicolasPonchaut_ex2.dll
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\bin\Debug\net8.0\6TTI_NicolasPonchaut_ex2.pdb
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.AssemblyInfoInputs.cache
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.AssemblyInfo.cs
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.sourcelink.json
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.dll
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\refint\6TTI_NicolasPonchaut_ex2.dll
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.pdb
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\6TTI_NicolasPonchaut_ex2.genruntimeconfig.cache
+C:\Users\Nico\github\UAA14\c#\6TTI_NicolasPonchaut_ex2\obj\Debug\net8.0\ref\6TTI_NicolasPonchaut_ex2.dll

@@ -10,7 +10,7 @@ namespace _6TTI_NicolasPonchaut_ex2
     {
         public void LireDouble(int i, out double x)
         {
-            string n;
+            string n = "";
             do
             {
                 Console.WriteLine("double a lire" + i);

@@ -1,0 +1,15 @@
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\bin\Debug\net6.0\Premier_prog_poo.exe
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\bin\Debug\net6.0\Premier_prog_poo.deps.json
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\bin\Debug\net6.0\Premier_prog_poo.runtimeconfig.json
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\bin\Debug\net6.0\Premier_prog_poo.dll
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\bin\Debug\net6.0\Premier_prog_poo.pdb
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.AssemblyInfoInputs.cache
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.AssemblyInfo.cs
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.csproj.CoreCompileInputs.cache
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.sourcelink.json
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.dll
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\refint\Premier_prog_poo.dll
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.pdb
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\Premier_prog_poo.genruntimeconfig.cache
+C:\Users\Nico\github\UAA14\c#\Premier_prog_poo\obj\Debug\net6.0\ref\Premier_prog_poo.dll

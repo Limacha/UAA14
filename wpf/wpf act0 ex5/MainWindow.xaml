@@ -1,0 +1,18 @@
+﻿<Window x:Class="wpf_act0_ex5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_act0_ex5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="300" HorizontalAlignment="Left" Margin="0,0,0,-1">
+            hello
+        </TextBox>
+        <Button Width="50" Height="50" HorizontalAlignment="Right" Margin="0,0,125,0">Center</Button>
+    </Grid>
+</Window>

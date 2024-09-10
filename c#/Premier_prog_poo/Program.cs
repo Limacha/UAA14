@@ -4,39 +4,102 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Chien dog = null;
+            bool game = true;
+            List<Chien> clubChien = new List<Chien>();
 
-            Chien doggy = new Chien("doggy", 4, "buldog", 15, 30, "tres tres con", true);
+            clubChien.Add(new Chien("doggy", 4, "buldog", 15, 30, "très très con", true, false));
+            for (int i = 1; i < 11; i++)
+            {
+                clubChien.Add(new Chien($"dog{i}", 5, $"race{i}",10+i, 10+i, "con", false, false));
+            }
 
-            do {
-                int action = lireInt("que voulez vous faire?\n1)Manger\n2)Boire\n3)Vieillir\n4)SeBlesser\n5)Besoin\n6)Mourir\n7)InfoChien");
+            while (game)
+            {
+                if (dog == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
+                    Console.WriteLine($"que voulez vous faire?\nA) afficher les {clubChien.Count()} chiens\nC) selectionner un des {clubChien.Count()}\np)creez un nouveau chien");
+                    Console.ResetColor();
+                    ConsoleKey key = Console.ReadKey().Key;
+                    Console.Clear();
+                    switch (key)
+                    {
+                        case ConsoleKey.A:
+                            foreach (Chien chien in clubChien) { Console.WriteLine(chien.InfosChien() + "\n"); }
+                            break;
+                        case ConsoleKey.C:
+                            int num = lireInt("Quel chien voulez-vous selectionner.");
+                            dog = clubChien[num - 1];
+                            break;
+                        case ConsoleKey.P:
+                            Console.WriteLine("Quel nom a votre chien");
+                            string nom = Console.ReadLine();
+                            int age = lireInt("Quel age a le chien?");
+                            Console.WriteLine("De quel race est-il?");
+                            string race = Console.ReadLine();
+                            double taille = lireInt("Quel taille fait-il?");
+                            double poid = lireInt("Quel taille fait-il?");
+                            Console.WriteLine("Dans quel etat est-il?");
+                            string etat = Console.ReadLine();
 
-                switch (action) {
-                    case 1:
-                        Console.WriteLine(doggy.Manger());
-                        break;
-                    case 2:
-                        Console.WriteLine(doggy.Boire());
-                        break;
-                    case 3:
-                        Console.WriteLine(doggy.Vieillir());
-                        break;
-                    case 4:
-                        Console.WriteLine(doggy.Seblesser());
-                        break;
-                    case 5:
-                        Console.WriteLine(doggy.Besoin());
-                        break;
-                    case 6:
-                        Console.WriteLine(doggy.Mourir());
-                        doggy = null;
-                        break;
-                    case 7:
-                        Console.WriteLine(doggy.InfosChien());
-                        break;
+                            clubChien.Add(new Chien(nom, age, race, taille, poid, etat, false, false));
+                            break;
+                    }
                 }
-                Console.WriteLine("presse space");
-            }while(Console.ReadKey().Key == ConsoleKey.Spacebar);
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
+                    Console.WriteLine($"que voulez vous faire?\nM)Manger\nB)Boire\nV)Vieillir\nS)SeBlesser\nN)Besoin\nD)Mourir\nI)InfoChien\nA) afficher les {clubChien.Count()} chiens\nC) selectionner un des {clubChien.Count()}\np)creez un nouveau chien");
+                    Console.ResetColor();
+                    ConsoleKey key = Console.ReadKey().Key;
+                    Console.Clear();
+                    switch (key)
+                    {
+                        case ConsoleKey.M:
+                            Console.WriteLine(dog.Manger());
+                            break;
+                        case ConsoleKey.B:
+                            Console.WriteLine(dog.Boire());
+                            break;
+                        case ConsoleKey.V:
+                            Console.WriteLine(dog.Vieillir());
+                            break;
+                        case ConsoleKey.S:
+                            Console.WriteLine(dog.Seblesser());
+                            break;
+                        case ConsoleKey.N:
+                            Console.WriteLine(dog.Besoin());
+                            break;
+                        case ConsoleKey.D:
+                            Console.WriteLine(dog.Mourir());
+                            break;
+                        case ConsoleKey.I:
+                            Console.WriteLine(dog.InfosChien());
+                            break;
+                        case ConsoleKey.A:
+                            foreach (Chien chien in clubChien) { Console.WriteLine("1: " + chien.InfosChien() + "\n"); }
+                            break;
+                        case ConsoleKey.C:
+                            int num = lireInt("Quel chien voulez-vous selectionner.");
+                            dog = clubChien[num - 1];
+                            break;
+                        case ConsoleKey.P:
+                            Console.WriteLine("Quel nom a votre chien");
+                            string nom = Console.ReadLine();
+                            int age = lireInt("Quel age a le chien?");
+                            Console.WriteLine("De quel race est-il?");
+                            string race = Console.ReadLine();
+                            double taille = lireInt("Quel taille fait-il?");
+                            double poid = lireInt("Quel poid fait-il?");
+                            Console.WriteLine("Dans quel etat est-il?");
+                            string etat = Console.ReadLine();
+
+                            clubChien.Add(new Chien(nom, age, race, taille, poid, etat, false, false));
+                            break;
+                    }
+                }
+            }
 
 
             /// <summary>

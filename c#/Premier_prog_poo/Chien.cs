@@ -15,8 +15,9 @@ namespace Premier_prog_poo
         private double _poids;
         private string _etat;
         private bool _puce;
+        private bool _mort;
 
-        public Chien(string name, int age, string race, double taille, double poids, string etat, bool puce)
+        public Chien(string name, int age, string race, double taille, double poids, string etat, bool puce, bool mort)
         {
             _name = name;
             _age = age;
@@ -25,6 +26,7 @@ namespace Premier_prog_poo
             _poids = poids;
             _etat = etat;
             _puce = puce;
+            _mort = mort;
         }
         public string Manger() 
         { 
@@ -49,11 +51,12 @@ namespace Premier_prog_poo
         }
         public string Mourir()
         {
-            return _name + " nous quiter!";
+            _mort = true;
+            return _name + " nous a quité!";
         }
         public string InfosChien()
         {
-            return "Le chien " + _name + ":\n" + 
+            return "Voici les info de " + _name + ":\n" + 
                    " age: " + _age + "\n" +
                    " race: " + _race + "\n" +
                    " taille: " + _taille + "\n" +

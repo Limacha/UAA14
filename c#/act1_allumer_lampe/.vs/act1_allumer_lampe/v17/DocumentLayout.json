@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act1_allumer_lampe\\interupteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|solutionrelative:interupteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act1_allumer_lampe\\fonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|solutionrelative:fonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act1_allumer_lampe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act1_allumer_lampe\\lampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7034962-9609-40A5-93D1-7AAB4E8C5D68}|act1_allumer_lampe.csproj|solutionrelative:lampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fonction.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Fonction.cs",
+              "RelativeDocumentMoniker": "Fonction.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Fonction.cs",
+              "RelativeToolTip": "Fonction.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwCwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:06:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA+wCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:04:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lampe.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Lampe.cs",
+              "RelativeDocumentMoniker": "Lampe.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Lampe.cs",
+              "RelativeToolTip": "Lampe.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:05:44.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interupteur.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Interupteur.cs",
+              "RelativeDocumentMoniker": "Interupteur.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\act1_allumer_lampe\\Interupteur.cs",
+              "RelativeToolTip": "Interupteur.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:06:03.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\bin\Debug\net6.0\act1_allumer_lampe.exe
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\bin\Debug\net6.0\act1_allumer_lampe.deps.json
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\bin\Debug\net6.0\act1_allumer_lampe.runtimeconfig.json
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\bin\Debug\net6.0\act1_allumer_lampe.dll
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\bin\Debug\net6.0\act1_allumer_lampe.pdb
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.AssemblyInfoInputs.cache
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.AssemblyInfo.cs
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.csproj.CoreCompileInputs.cache
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.sourcelink.json
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.dll
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\refint\act1_allumer_lampe.dll
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.pdb
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\act1_allumer_lampe.genruntimeconfig.cache
+C:\Users\Nico\github\UAA14\c#\act1_allumer_lampe\obj\Debug\net6.0\ref\act1_allumer_lampe.dll

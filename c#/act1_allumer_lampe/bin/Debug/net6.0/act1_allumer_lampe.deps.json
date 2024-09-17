@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "act1_allumer_lampe/1.0.0": {
+        "runtime": {
+          "act1_allumer_lampe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "act1_allumer_lampe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

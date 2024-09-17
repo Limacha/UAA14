@@ -10,7 +10,7 @@
             Fonction fonction = new Fonction();
             while (true)
             {
-                Console.WriteLine("l)creer une lampe\ni)creer un interrupteur\nu)utiliser un interrupteur\ns)montre l'etat d'une lampe\n");
+                Console.WriteLine("l)creer une lampe\ni)creer un interrupteur\nu)utiliser un interrupteur\ns)montre l'etat d'une lampe\ng)faire une guirlande");
                 var key = Console.ReadKey().Key;
                 if (key == ConsoleKey.L)
                 {
@@ -78,7 +78,7 @@
                         }
                     }
                 }
-                else if (key == ConsoleKey.S) 
+                else if (key == ConsoleKey.S)
                 {
                     Lampe lampe = null;
                     Console.Clear();
@@ -105,6 +105,25 @@
                         }
                     }
                 }
+                else if (key == ConsoleKey.G) 
+                {
+                    Console.Clear();
+                    Console.ForegroundColor= ConsoleColor.DarkGray;
+                    if (lampeList.Count > 0)
+                    {
+                        foreach (var lampe in lampeList)
+                        {
+                            lampe.Allumer = true;
+                            Console.WriteLine(lampe.Code + " " + lampe.ShowState());
+                        }
+                        foreach (var lampe in lampeList)
+                        {
+                            lampe.Allumer = false;
+                            Console.WriteLine(lampe.Code + " " + lampe.ShowState());
+                        }
+                    }
+                    Console.ResetColor();
+                }
                 
             }
             string ShowLampe()
@@ -122,7 +141,7 @@
                 string text = "";
                 foreach (var interupteur in interupList)
                 {
-                    text += $"l'interupteur {interupteur.Code} est lier a la lampe {interupteur.GetLampeCode()}\n";
+                    text += $"l'interupteur {interupteur.Code} est lier a la lampe {interupteur.Lampe.Code}\n";
                 }
                 return text;
             }

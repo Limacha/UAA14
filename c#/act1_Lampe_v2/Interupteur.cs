@@ -20,10 +20,6 @@ namespace act1_Lampe_v2
             _lampe = lampe;
         }
 
-        public string GetLampeCode()
-        {
-            return _lampe.Code;
-        }
         public void AllumerLampe()
         {
             _lampe.Allumer = true;

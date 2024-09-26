@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Nico\source\repos\wpf3_event1\obj\Debug\net6.0-windows\
+C:\Users\Nico\github\UAA14\wpf\wpf3_event1\obj\Debug\net6.0-windows\
 wpf3_event1
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Nico\source\repos\wpf3_event1\App.xaml
-11407045341
+C:\Users\Nico\github\UAA14\wpf\wpf3_event1\App.xaml
+21940794329
 
-4830204624
+51759544336
 194-253927392
-MainWindow.xaml;
+MainWindow.xaml;Window1.xaml;
 
 False
 

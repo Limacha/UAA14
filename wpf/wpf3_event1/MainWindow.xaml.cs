@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using System.Text;
+﻿using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -26,6 +25,22 @@ namespace wpf3_event1
             BtnCalculer.MouseEnter += new MouseEventHandler(SurvolBoutonTrue);
             BtnCalculer.MouseLeave += new MouseEventHandler(SurvolBoutonFalse);
 
+            BtnCalculer.Click += new RoutedEventHandler(Calculer);
+        }
+
+        public void Calculer(object sender, RoutedEventArgs e)
+        {
+            if (double.TryParse(textA.Text, out double a) && double.TryParse(textB.Text, out double b) && double.TryParse(textC.Text, out double c))
+            {
+                if (a != 0)
+                {
+                    ResoudTrinome(a, b, c, out string message);
+                    Window1 window1 = new Window1();
+                    window1.textShowResult.Text = message;
+                    window1.Show();
+                }
+            }
+
         }
 
         public void VerifText(object sender, TextCompositionEventArgs e)
@@ -33,7 +48,7 @@ namespace wpf3_event1
             if (e.Text != "," && !EstEntier(e.Text))
             {
                 e.Handled = true;
-            } else if(e.Text == "," && ((TextBox)sender).Text.IndexOf(e.Text) >- 1) {
+            } else if(e.Text == "," && ((TextBox)sender).Text.IndexOf(e.Text) > - 1) {
                 e.Handled = true;
             }
         }
@@ -44,7 +59,7 @@ namespace wpf3_event1
         }
         public void SurvolBoutonFalse(object sender, MouseEventArgs e)
         {
-            BtnV.Visibility = Visibility.Visible;
+            BtnV.Visibility = Visibility.Hidden;
         }
 
         private bool EstEntier(string texteUser)

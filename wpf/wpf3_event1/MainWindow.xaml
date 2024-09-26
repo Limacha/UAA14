@@ -14,16 +14,16 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         
-        <TextBlock x:Name="textA" Text="A" VerticalAlignment="Center" FontSize="50" Margin="30,0,0,0" />
-        <TextBox Height="75" Width="200" FontSize="48"/>
+        <TextBlock Text="A" VerticalAlignment="Center" FontSize="50" Margin="30,0,0,0" />
+        <TextBox Name="textA" Height="75" Width="200" FontSize="48"/>
 
-        <TextBlock x:Name="textB" Text="B" VerticalAlignment="Center" FontSize="50" Grid.Row="1" Margin="30,0,0,0"/>
-        <TextBox Height="75" Width="200" FontSize="48" Grid.Row="1" />
+        <TextBlock Text="B" VerticalAlignment="Center" FontSize="50" Grid.Row="1" Margin="30,0,0,0"/>
+        <TextBox Name="textB" Height="75" Width="200" FontSize="48" Grid.Row="1" />
 
-        <TextBlock x:Name="textC" Text="C" VerticalAlignment="Center" FontSize="50" Grid.Row="2" Margin="30,0,0,0"/>
-        <TextBox Height="75" Width="200" FontSize="48" Grid.Row="2"/>
+        <TextBlock Text="C" VerticalAlignment="Center" FontSize="50" Grid.Row="2" Margin="30,0,0,0"/>
+        <TextBox Name="textC" Height="75" Width="200" FontSize="48" Grid.Row="2"/>
 
-        <Button x:Name="BtnCalculer" Width="150px" Height="60px" Grid.Row="3" FontSize="36" HorizontalAlignment="Left" Margin="30,0,0,0" FontWeight="Bold">Calculer</Button>
-        <Button x:Name="BtnV" Width="50px" Height="60px" Grid.Row="3" FontSize="36" HorizontalAlignment="Right" Margin="0,0,30,0" FontWeight="Bold">V</Button>
+        <Button Name="BtnCalculer" Width="150px" Height="60px" Grid.Row="3" FontSize="36" HorizontalAlignment="Left" Margin="30,0,0,0" FontWeight="Bold">Calculer</Button>
+        <Button Name="BtnV" Width="50px" Height="60px" Grid.Row="3" FontSize="36" HorizontalAlignment="Right" Margin="0,0,30,0" FontWeight="Bold">V</Button>
     </Grid>
 </Window>

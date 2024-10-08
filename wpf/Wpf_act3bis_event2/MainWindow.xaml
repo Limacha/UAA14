@@ -5,24 +5,60 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_act3bis_event2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#FFB54242">
-    <Grid>
-        <GroupBox Header="TYPE DE LOGEMENT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="75" Margin="10,10,0,0" Foreground="White">
+        Title="MainWindow" Height="450" Width="700" Background="#FFB54242" FontSize="20">
+    <Grid Margin="10">
+        <GroupBox Header="TYPE DE LOGEMENT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Foreground="White">
             <StackPanel>
-                <RadioButton Content="CHALET" GroupName="logement" Margin="5" Foreground="White"/>
-                <RadioButton Content="TENTE" GroupName="logement" Margin="5" Foreground="White"/>
+                <RadioButton Content="CHALET" GroupName="logement" Margin="10" Foreground="White"/>
+                <RadioButton Content="TENTE" GroupName="logement" Margin="10" Foreground="White"/>
             </StackPanel>
         </GroupBox>
 
-        <CheckBox Name="checkBoxReservation" Content="RESERVATION" Foreground="White" Margin="10,120,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <CheckBox Name="checkBoxReservation" Content="RESERVATION" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <GroupBox Header="RESULTATS" HorizontalAlignment="Left" VerticalAlignment="Bottom" Foreground="White" Width="400" Height="100">
+            <Grid>
+                <TextBlock Text="Prix à Payer :" Margin="5" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBlock Name="txtCout" Margin="5" Width="150" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+                <TextBlock Text="Nombre de semaines :" Margin="5" Width="175" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                <TextBlock Name="txtNbSemaines" Margin="5" Width="150" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Header="TYPE DE LOGEMENT" HorizontalAlignment="Right" VerticalAlignment="Top" Width="400" Foreground="White" Height="250">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Nbre de Personnes (entre 1 et 6):" Grid.ColumnSpan="2" VerticalAlignment="Center" Margin="5"/>
+                <TextBox Name="nbrePersonnes" Grid.Column="1" Margin="5" Width="50" HorizontalAlignment="Right"/>
+
+                <TextBlock Text="Date d'arrivée :" Grid.Row="1" VerticalAlignment="Center" Margin="5"/>
+                <DatePicker Name="dateArrivee" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+                <TextBlock Text="Date de sortie :" Grid.Row="2" VerticalAlignment="Center" Margin="5"/>
+                <DatePicker Name="dateSortie" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+                <Button Name="btnCalculerDuree" Content="DUREE SORTIE" Grid.Row="3" Margin="0 30" Width="150"/>
+                <TextBlock Grid.Row="3" Grid.Column="3" Margin=" 0 30" Text="(Durée en semaines)"/>
+            </Grid>
+        </GroupBox>
 
         <Grid HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="15">
             <Grid.RowDefinitions>
                 <RowDefinition/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
-            <Button Name="boutonCalculer" Content="CALCULER" Width="80" Height="30" Margin="15"/>
-            <Button Name="boutonInit" Content="INIT" Width="80" Height="30" Grid.Row="1" />
+            <Button Name="boutonCalculer" Content="CALCULER" Width="130" Height="30" Margin="20"/>
+            <Button Name="boutonInit" Content="INIT" Width="130" Height="30" Grid.Row="1"/>
         </Grid>
     </Grid>
 </Window>

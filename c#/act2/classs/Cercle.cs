@@ -2,7 +2,22 @@
 {
     public class Cercle
     {
-        private float radius;
-        public float Radius { get { return radius; } set { if (value > 0) { radius = value; } } }
+        private double _radius;
+        public double Radius { get { return _radius; } set { if (value > 0) { _radius = value; } } }
+
+        public Cercle(double radius)
+        {
+            _radius = radius;
+        }
+
+        public double CalculerAire()
+        {
+            return Math.PI * (_radius * _radius);
+        }
+
+        public double CalculerPerimetre()
+        {
+            return (2 * Math.PI) * _radius;
+        }
     }
 }

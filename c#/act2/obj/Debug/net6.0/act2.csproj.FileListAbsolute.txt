@@ -1,0 +1,15 @@
+C:\Users\Nico\github\UAA14\c#\act2\bin\Debug\net6.0\act2.exe
+C:\Users\Nico\github\UAA14\c#\act2\bin\Debug\net6.0\act2.deps.json
+C:\Users\Nico\github\UAA14\c#\act2\bin\Debug\net6.0\act2.runtimeconfig.json
+C:\Users\Nico\github\UAA14\c#\act2\bin\Debug\net6.0\act2.dll
+C:\Users\Nico\github\UAA14\c#\act2\bin\Debug\net6.0\act2.pdb
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.AssemblyInfoInputs.cache
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.AssemblyInfo.cs
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.csproj.CoreCompileInputs.cache
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.sourcelink.json
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.dll
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\refint\act2.dll
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.pdb
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\act2.genruntimeconfig.cache
+C:\Users\Nico\github\UAA14\c#\act2\obj\Debug\net6.0\ref\act2.dll

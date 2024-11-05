@@ -19,10 +19,16 @@ namespace Wpf_act3bis_event2
         public MainWindow()
         {
             InitializeComponent();
-            SetUpGame();
+            SetUpWindow();
         }
-        private void SetUpGame()
+        private void SetUpWindow()
         {
+            dateArrivee.SelectedDate = null;
+            dateSortie.SelectedDate = null;
+
+            dateArrivee.BlackoutDates.Clear();
+            dateSortie.BlackoutDates.Clear();
+
             SetDate(dateArrivee);
             SetDate(dateSortie);
 
@@ -34,7 +40,15 @@ namespace Wpf_act3bis_event2
 
             dateArrivee.CalendarClosed += new RoutedEventHandler(VerifDateOut);
             dateSortie.CalendarClosed += new RoutedEventHandler(VerifDateIn);
+
+            boutonInit.MouseDown += new MouseButtonEventHandler(resetGame);
         }
+
+        private void resetGame(object sender, MouseButtonEventArgs e)
+        {
+            SetUpWindow();
+        }
+
         private void SetDate(DatePicker date)
         {
             CalendarDateRange dateRange = new CalendarDateRange(new DateTime(0001, 01, 01), DateTime.Now.AddDays(-1));
@@ -57,10 +71,12 @@ namespace Wpf_act3bis_event2
             dateRange = new CalendarDateRange(DateTime.Now.AddYears(1), new DateTime(9999, 12, 31));
             date.BlackoutDates.Add(dateRange);
         }
+        //les date beug encore mais plus envie de me battre
         private void VerifDateOut(object sender, RoutedEventArgs e)
         {
             if (dateArrivee.SelectedDate != null)
             {
+                dateSortie.SelectedDate = null;
                 CalendarDateRange dateRangeOut;
 
                 switch (dateArrivee.SelectedDate.Value.Date.Month)
@@ -96,12 +112,14 @@ namespace Wpf_act3bis_event2
                         dateSortie.BlackoutDates.Add(dateRangeOut);
                         break;
                 }
+                dateSortie.SelectedDate = dateArrivee.SelectedDate.Value.Date.AddDays(1);
             }
         }
         private void VerifDateIn(object sender, RoutedEventArgs e)
         {
             if (dateSortie.SelectedDate != null)
             {
+                dateArrivee.SelectedDate = null;
                 CalendarDateRange dateRangeOut;
 
                 switch (dateSortie.SelectedDate.Value.Date.Month)
@@ -137,6 +155,7 @@ namespace Wpf_act3bis_event2
                         dateArrivee.BlackoutDates.Add(dateRangeOut);
                         break;
                 }
+                dateArrivee.SelectedDate = dateSortie.SelectedDate.Value.Date.AddDays(1);
             }
         }
     }

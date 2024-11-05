@@ -1,0 +1,15 @@
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\bin\Debug\net6.0\Act6_heritage.exe
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\bin\Debug\net6.0\Act6_heritage.deps.json
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\bin\Debug\net6.0\Act6_heritage.runtimeconfig.json
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\bin\Debug\net6.0\Act6_heritage.dll
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\bin\Debug\net6.0\Act6_heritage.pdb
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.AssemblyInfoInputs.cache
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.AssemblyInfo.cs
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.csproj.CoreCompileInputs.cache
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.sourcelink.json
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.dll
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\refint\Act6_heritage.dll
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.pdb
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\Act6_heritage.genruntimeconfig.cache
+C:\Users\Nico\github\UAA14\c#\Act6_heritage\obj\Debug\net6.0\ref\Act6_heritage.dll

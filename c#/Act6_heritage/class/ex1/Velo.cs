@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Act6_heritage
+namespace Act6_heritage.@class.ex1
 {
     public class Velo : Vehicule
     {
@@ -14,7 +14,7 @@ namespace Act6_heritage
         public string Type { get { return _type; } set { _type = value; } }
         public bool EstElec { get { return _estElec; } set { _estElec = value; } }
 
-        public Velo(string model, string marque, string couleur, decimal prix,string type, bool estElec) : base(model, marque, couleur, prix)
+        public Velo(string model, string marque, string couleur, decimal prix, string type, bool estElec) : base(model, marque, couleur, prix)
         {
             _type = type;
             _estElec = estElec;

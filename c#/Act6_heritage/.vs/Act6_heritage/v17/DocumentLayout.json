@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\ex3\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\ex3\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\ex3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\ex3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|c:\\users\\nico\\github\\uaa14\\c#\\act6_heritage\\class\\ex3\\parallelepipede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DD4FD8-E42A-450B-975A-92046C32FB10}|Act6_heritage.csproj|solutionrelative:class\\ex3\\parallelepipede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Voiture.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Voiture.cs",
-              "RelativeDocumentMoniker": "class\\Voiture.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Voiture.cs",
-              "RelativeToolTip": "class\\Voiture.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABZAAAA",
+              "Title": "Carre.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Carre.cs",
+              "RelativeDocumentMoniker": "class\\ex3\\Carre.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Carre.cs",
+              "RelativeToolTip": "class\\ex3\\Carre.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:16:57.698Z",
+              "WhenOpened": "2024-11-19T10:35:01.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Vehicule.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Vehicule.cs",
-              "RelativeDocumentMoniker": "class\\Vehicule.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Vehicule.cs",
-              "RelativeToolTip": "class\\Vehicule.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwB4AAABAAAAA",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "class\\ex3\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Rectangle.cs",
+              "RelativeToolTip": "class\\ex3\\Rectangle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:16:43.31Z",
+              "WhenOpened": "2024-11-19T10:35:03.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Velo.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Velo.cs",
-              "RelativeDocumentMoniker": "class\\Velo.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\Velo.cs",
-              "RelativeToolTip": "class\\Velo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABVAAAA",
+              "Title": "Parallelepipede.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Parallelepipede.cs",
+              "RelativeDocumentMoniker": "class\\ex3\\Parallelepipede.cs",
+              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\class\\ex3\\Parallelepipede.cs",
+              "RelativeToolTip": "class\\ex3\\Parallelepipede.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:15:54.788Z",
+              "WhenOpened": "2024-11-19T10:34:56.458Z",
               "EditorCaption": ""
             },
             {
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\c#\\Act6_heritage\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:14:42.022Z",
               "EditorCaption": ""

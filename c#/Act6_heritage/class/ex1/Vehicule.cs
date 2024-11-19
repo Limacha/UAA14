@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Act6_heritage
+namespace Act6_heritage.@class.ex1
 {
     public class Vehicule
     {
@@ -18,8 +18,8 @@ namespace Act6_heritage
         public string Couleur { get { return _couleur; } set { _couleur = value; } }
         public decimal Prix { get { return _prix; } set { _prix = value; } }
 
-        public Vehicule(string modele, string marque, string couleur, decimal prix) 
-        { 
+        public Vehicule(string modele, string marque, string couleur, decimal prix)
+        {
             _modele = modele;
             _marque = marque;
             _couleur = couleur;

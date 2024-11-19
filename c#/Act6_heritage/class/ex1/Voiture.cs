@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Act6_heritage
+namespace Act6_heritage.@class.ex1
 {
     public class Voiture : Vehicule
     {

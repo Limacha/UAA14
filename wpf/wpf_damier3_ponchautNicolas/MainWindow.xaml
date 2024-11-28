@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf_damier3_ponchautNicolas"
         mc:Ignorable="d"
-        Title="MainWindow" Height="660" Width="660">
-    <Grid>
+        Title="MainWindow" Height="520" Width="520">
+    <Grid x:Name="body">
 
     </Grid>
 </Window>

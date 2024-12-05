@@ -1,6 +1,7 @@
 ﻿using Act6_heritage.@class.ex1;
 using Act6_heritage.@class.ex2;
 using Act6_heritage.@class.ex3;
+using Act6_heritage.@class.ex4;
 
 namespace Act6_heritage
 {
@@ -62,6 +63,11 @@ namespace Act6_heritage
             Console.WriteLine(carre.CalculerSurface());
             Console.WriteLine(carre.CalculerPerimetre());
             */
+            #endregion
+            #region ex4
+
+            Employer[] employer = new Employer[] { }; 
+
             #endregion
         }
     }

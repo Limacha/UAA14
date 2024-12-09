@@ -7,26 +7,39 @@ using System.Threading.Tasks;
 
 namespace Act6_heritage.@class.ex4
 {
-    public abstract class Cadre
+    public class Cadre : Employer
     {
-        protected string _matricul;
-        protected string _nom;
-        protected string _prenom;
-        protected DateTime _dateNaissance;
+        protected int _indice;
 
-        public string Matricul { get { return _matricul; } }
-        public string Nom { get { return _nom; } }
-        public string Prenom { get { return _prenom; } }
-        public DateTime DateNaissance { get { return _dateNaissance; } }
+        public int Indice { get { return _indice; } }
 
-        public Cadre(string matricul, string nom, string prenom, DateTime dateNaissance)
+        public Cadre(string matricul, string nom, string prenom, DateTime dateNaissance, int indice) : base(matricul, nom, prenom, dateNaissance)
         {
-            _matricul = matricul;
-            _nom = nom;
-            _prenom = prenom;
-            _dateNaissance = dateNaissance;
+            _indice = indice;
         }
-        public abstract string Caract();
-        public abstract string CalculerSalaire();
+        public override string Caract()
+        {
+            return
+                "_matricul: " + _matricul + "\n" +
+                "_nom: " + _nom + "\n" +
+                "_prenom: " + _prenom + "\n" +
+                "_dateNaissance: " + _dateNaissance + "\n" +
+                "_indice: " + _indice + "\n";
+        }
+        public override string CalculerSalaire()
+        {
+            switch (_indice)
+            {
+                case 1:
+                    return "salaire mensuel 13000 écus.";
+                case 2:
+                    return "salaire mensuel 15000 écus.";
+                case 3:
+                    return "salaire mensuel 17000 écus.";
+                case 4:
+                    return "salaire mensuel 20000 écus.";
+            }
+            return "erreur 404.";
+        }
     }
 }

@@ -7,26 +7,32 @@ using System.Threading.Tasks;
 
 namespace Act6_heritage.@class.ex4
 {
-    public abstract class Directeur
+    public class Directeur : Employer
     {
-        protected string _matricul;
-        protected string _nom;
-        protected string _prenom;
-        protected DateTime _dateNaissance;
+        protected int _chiffreAffaire;
+        protected int _pourcentage;
 
-        public string Matricul { get { return _matricul; } }
-        public string Nom { get { return _nom; } }
-        public string Prenom { get { return _prenom; } }
-        public DateTime DateNaissance { get { return _dateNaissance; } }
+        public int ChiffreAffaire { get { return _chiffreAffaire; } }
+        public int Pourcentage { get { return _pourcentage; } }
 
-        public Directeur(string matricul, string nom, string prenom, DateTime dateNaissance)
+        public Directeur(string matricul, string nom, string prenom, DateTime dateNaissance, int chiffreAffaire, int pourcentage) : base(matricul, nom, prenom, dateNaissance)
         {
-            _matricul = matricul;
-            _nom = nom;
-            _prenom = prenom;
-            _dateNaissance = dateNaissance;
+            _chiffreAffaire = chiffreAffaire;
+            _pourcentage = pourcentage;
         }
-        public abstract string Caract();
-        public abstract string CalculerSalaire();
+        public override string Caract()
+        {
+            return
+                "_matricul: " + _matricul + "\n" +
+                "_nom: " + _nom + "\n" +
+                "_prenom: " + _prenom + "\n" +
+                "_dateNaissance: " + _dateNaissance + "\n" +
+                "_chiffreAffaire: " + _chiffreAffaire + "\n" +
+                "_pourcentage: " + _pourcentage + "\n";
+        }
+        public override string CalculerSalaire()
+        {
+            return $"salaire annuel de {_chiffreAffaire / 100 * _pourcentage}.";
+        }
     }
 }

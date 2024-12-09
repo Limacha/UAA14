@@ -141,7 +141,7 @@ namespace CE_UAA14WPF_Dec24_PonchautNicolas {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CE_UAA14WPF_Dec24_PonchautNicolas;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CE_UAA14WPF_Dec24_PonchautNicolas;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

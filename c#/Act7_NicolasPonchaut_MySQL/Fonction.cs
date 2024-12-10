@@ -9,6 +9,7 @@ using System.Diagnostics;
 using System.Collections;
 using System.Data.Common;
 using Google.Protobuf.WellKnownTypes;
+using System.Security.Policy;
 
 
 namespace Act7_NicolasPonchaut_MySQL
@@ -38,6 +39,30 @@ namespace Act7_NicolasPonchaut_MySQL
             }
         }
 
+        public DataSet CallQueryIntelligent(string query, Dictionary<string, string> set)
+        {
+            MySqlConnection maConnection = new MySqlConnection(DefinirCheminBD());
+            DataSet infos = new DataSet();
+            try
+            {
+                maConnection.Open();
+                Console.WriteLine(query);
+                MySqlCommand upDateCommand = new MySqlCommand(query, maConnection);
+                foreach (var val in set)
+                {
+                    upDateCommand.Parameters.AddWithValue($"@{val.Key}", val.Value);
+                }
+                upDateCommand.ExecuteNonQuery();
+                maConnection.Close();
+                return infos;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                throw;
+            }
+        }
+
         public void SelectFromWhere(string[] select, string from, string where = "")
         {
             string query = (where != "") ? $"SELECT * FROM {from} where {where}; " : $"SELECT * FROM {from};";
@@ -53,6 +78,42 @@ namespace Act7_NicolasPonchaut_MySQL
             }
             Console.WriteLine("");
         }
+        public void DeleteFromId(string[] select, string from, string where)
+        {
+            string query = $"delete from {from} where {where};";
+            Console.WriteLine(query);
+            DataSet infos = CallQuery(query);
 
+            SelectFromWhere(select, from);
+        }
+
+        public void AddItem(string table, Dictionary<string, string> set)
+        {
+            string query = $"INSERT INTO {table}(";
+            foreach (var val in set)
+            {
+                query += ($"{val.Key}, ");
+            }
+            query = query.Substring(0, query.Length - 2);
+            query += ") VALUES(";
+            foreach (var val in set)
+            {
+                query += ($"@{val.Key}, ");
+            }
+            query = query.Substring(0, query.Length - 2);
+            query += ");";
+            CallQueryIntelligent(query, set);
+        }
+
+        public void EditItem(string table, Dictionary<string, string> set, string where)
+        {
+            string sete = "";
+            foreach (var val in set)
+            {
+                sete += ($"{val.Key} = @{val.Key}, ");
+            }
+            sete = sete.Substring(0, sete.Length-2);
+            CallQueryIntelligent($"UPDATE {table} SET {sete} WHERE {where};", set);
+        }
     }
 }

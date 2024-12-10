@@ -81,7 +81,6 @@ namespace Act7_NicolasPonchaut_MySQL
         public void DeleteFromId(string[] select, string from, string where)
         {
             string query = $"delete from {from} where {where};";
-            Console.WriteLine(query);
             DataSet infos = CallQuery(query);
 
             SelectFromWhere(select, from);

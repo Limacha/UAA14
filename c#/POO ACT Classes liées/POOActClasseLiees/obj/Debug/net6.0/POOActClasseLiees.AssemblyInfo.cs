@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOActClasseLiees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d310ba0df045f7d3a91b09bc0c79701ded8c93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaff32ebd039eb5c8caa8df446e9ff8c8eced9c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOActClasseLiees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOActClasseLiees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

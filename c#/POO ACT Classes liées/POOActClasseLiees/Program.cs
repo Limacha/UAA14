@@ -30,7 +30,6 @@
                             if(item.Titre == titre)
                             {
                                 exist = true;
-                                return;
                             }
                         }
                         if (!exist)
@@ -52,7 +51,6 @@
                             if (item.Titre == titre)
                             {
                                 livre = item;
-                                return;
                             }
                         }
                         if (livre != null)

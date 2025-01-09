@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\poo act classes li\u00E9es\\pooactclasseliees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:44:12.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

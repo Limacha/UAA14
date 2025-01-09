@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\poo act classes li\u00E9es\\pooactclasseliees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\poo act classes li\u00E9es\\pooactclasseliees\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|solutionrelative:bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\poo act classes li\u00E9es\\pooactclasseliees\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02102930-388F-4890-9ABF-5D1899718E31}|POOActClasseLiees.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Livre.cs",
+              "RelativeDocumentMoniker": "Livre.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:46:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "Bibliotheque.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Bibliotheque.cs",
+              "RelativeToolTip": "Bibliotheque.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:46:20.905Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +57,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T09:44:12.066Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\bin\Debug\net6.0\POOACTClasseLier2.exe
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\bin\Debug\net6.0\POOACTClasseLier2.deps.json
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\bin\Debug\net6.0\POOACTClasseLier2.runtimeconfig.json
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\bin\Debug\net6.0\POOACTClasseLier2.dll
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\bin\Debug\net6.0\POOACTClasseLier2.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.AssemblyInfoInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.AssemblyInfo.cs
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.sourcelink.json
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.dll
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\refint\POOACTClasseLier2.dll
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\POOACTClasseLier2.genruntimeconfig.cache
+C:\Users\Nico\Documents\github\UAA14\c#\POOACTClasseLier2\obj\Debug\net6.0\ref\POOACTClasseLier2.dll

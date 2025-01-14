@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("POOActClasseLiees")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("POOACTClasseLier2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287b29163c889fa07afddd0f27b004a05747d516")]
-[assembly: System.Reflection.AssemblyProductAttribute("POOActClasseLiees")]
-[assembly: System.Reflection.AssemblyTitleAttribute("POOActClasseLiees")]
+[assembly: System.Reflection.AssemblyProductAttribute("POOACTClasseLier2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("POOACTClasseLier2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

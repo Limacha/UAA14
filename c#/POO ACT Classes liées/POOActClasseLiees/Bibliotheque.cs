@@ -23,11 +23,15 @@ namespace POOActClasseLiees
 
         public void Supprimer_livre_abimes()
         {
-            foreach (var item in _contenu)
+            for (int i = 0; i < _contenu.Count(); i++)
             {
-                if(item.Etat < 1)
+                Livre item = _contenu[i];
+                item.Description();
+                if (item.Etat < 1)
                 {
                     _contenu.Remove(item);
+                    Console.WriteLine(item.Titre);
+                    i--;
                 }
             }
         }

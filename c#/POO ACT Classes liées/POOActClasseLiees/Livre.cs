@@ -25,8 +25,9 @@ namespace POOActClasseLiees
         public bool Degrade()
         {
             _etat--;
-            if( _etat == 0)
+            if( _etat <= 0)
             {
+                _etat = 0;
                 return true;
             }
             return false;

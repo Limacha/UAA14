@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "Livre.cs",
               "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Livre.cs",
               "RelativeToolTip": "Livre.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAuwCEAAAAfAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAA+wB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:46:35.957Z"
+              "WhenOpened": "2025-01-09T09:46:35.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,9 +45,10 @@
               "RelativeDocumentMoniker": "Bibliotheque.cs",
               "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Bibliotheque.cs",
               "RelativeToolTip": "Bibliotheque.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCYAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:46:20.905Z"
+              "WhenOpened": "2025-01-09T09:46:20.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\POO ACT Classes li\u00E9es\\POOActClasseLiees\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB8AAAAtAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwDkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T09:44:12.066Z",
               "EditorCaption": ""

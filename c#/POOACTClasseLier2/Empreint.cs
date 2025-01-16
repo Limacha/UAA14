@@ -9,23 +9,23 @@ namespace POOACTClasseLier2
 {
     public class Empreint
     {
-        private string _id;
+        private Empreinter _empreinter;
         private Livre _livre;
         private string _date;
-        public string Id { get { return _id; } }
+        public Empreinter Empreinteur { get { return _empreinter; } }
         public Livre Livre { get { return _livre; } }
         public string Date { get { return _date; } }
 
-        public Empreint(string id, Livre livre, string date)
+        public Empreint(Empreinter empreinteur, Livre livre, string date)
         {
-            _id = id;
+            _empreinter = empreinteur;
             _livre = livre;
             _date = date;
         }
 
         public void Info()
         {
-            Console.WriteLine($"empreint id {_id} livre {_livre.Titre} date {_date}");
+            Console.WriteLine($"empreint id {_empreinter.Nom} livre {_livre.Titre} date {_date}");
         }
     }
 }

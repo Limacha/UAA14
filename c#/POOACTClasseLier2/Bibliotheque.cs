@@ -40,7 +40,7 @@ namespace POOActClasseLiees
             }
         }
 
-        public void Empreinter(string id, Livre livre, string date)
+        public void Empreinte(Empreinter id, Livre livre, string date)
         {
             _empreints.Add(new Empreint(id, livre, date));
             _contenu.Remove(livre);

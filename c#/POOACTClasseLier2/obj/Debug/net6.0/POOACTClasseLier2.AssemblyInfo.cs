@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOACTClasseLier2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4c52396a07fa98421780a91f7c3dc5feb5fbf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68fe4e64610b90c58b866e214e3a6710c9037692")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOACTClasseLier2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOACTClasseLier2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

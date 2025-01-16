@@ -8,6 +8,7 @@ namespace POOACTClasseLier2
         {
             Bibliotheque biblio = new Bibliotheque();
             Livre livre = null;
+            Empreinter empreinter = new Empreinter("jjj", "jack", "henry");
             do
             {
                 Console.Clear();
@@ -88,14 +89,10 @@ namespace POOACTClasseLier2
                         }
                         if (livre != null)
                         {
-
-                            Console.WriteLine("id:");
-                            string id = Console.ReadLine();
-
                             Console.WriteLine("date:");
                             string date = Console.ReadLine();
 
-                            biblio.Empreinter(id, livre, date);
+                            biblio.Empreinter(empreinter, livre, date);
                             Console.WriteLine("livre empreinter");
                         }
                         else
@@ -106,12 +103,12 @@ namespace POOACTClasseLier2
                         break;
                     case ConsoleKey.R:
                         biblio.Inventaire();
-                        Console.WriteLine("id emprunt:");
+                        Console.WriteLine("id livre emprunter:");
                         string idemp = Console.ReadLine();
                         Empreint emp = null;
                         foreach (var item in biblio.Empreints)
                         {
-                            if (item.Id == idemp)
+                            if (item.Livre.Titre == idemp)
                             {
                                 emp = item;
                             }

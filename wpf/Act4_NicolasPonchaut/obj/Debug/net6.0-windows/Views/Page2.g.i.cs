@@ -53,7 +53,7 @@ namespace Act4_NicolasPonchaut.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Act4_NicolasPonchaut;component/views/page2.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Act4_NicolasPonchaut;V1.0.0.0;component/views/page2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Page2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

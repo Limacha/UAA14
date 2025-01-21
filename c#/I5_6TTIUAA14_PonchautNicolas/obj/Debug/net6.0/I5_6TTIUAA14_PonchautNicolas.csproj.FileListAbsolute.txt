@@ -1,0 +1,15 @@
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\bin\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.exe
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\bin\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.deps.json
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\bin\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.runtimeconfig.json
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\bin\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.dll
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\bin\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.AssemblyInfoInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.AssemblyInfo.cs
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.sourcelink.json
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.dll
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\refint\I5_6TTIUAA14_PonchautNicolas.dll
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\I5_6TTIUAA14_PonchautNicolas.genruntimeconfig.cache
+C:\Users\Nico\Documents\github\UAA14\c#\I5_6TTIUAA14_PonchautNicolas\obj\Debug\net6.0\ref\I5_6TTIUAA14_PonchautNicolas.dll

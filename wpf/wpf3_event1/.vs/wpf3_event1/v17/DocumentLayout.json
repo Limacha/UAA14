@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\",
+  "WorkspaceRootPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\wpf3_event1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\wpf3_event1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\wpf3_event1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\wpf3_event1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\wpf3_event1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\wpf3_event1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\wpf3_event1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\wpf3_event1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2B7D9CDF-3C39-4B8C-8DB7-EEA000BF170E}|wpf3_event1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml.cs",
               "RelativeToolTip": "Window1.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml",
               "RelativeDocumentMoniker": "Window1.xaml",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\Window1.xaml",
               "RelativeToolTip": "Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-26T11:09:54.762Z"
@@ -55,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-19T11:07:19.597Z"
@@ -66,9 +66,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf3_event1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAiwCkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

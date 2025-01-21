@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\i5_6ttiuaa14_ponchautnicolas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\i5_6ttiuaa14_ponchautnicolas\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|solutionrelative:joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\i5_6ttiuaa14_ponchautnicolas\\paintballgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A276D882-A9F8-4E89-9263-875DE616193F}|I5_6TTIUAA14_PonchautNicolas.csproj|solutionrelative:paintballgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaintBallGun.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\PaintBallGun.cs",
+              "RelativeDocumentMoniker": "PaintBallGun.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\PaintBallGun.cs",
+              "RelativeToolTip": "PaintBallGun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:33:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\Joueur.cs",
+              "RelativeDocumentMoniker": "Joueur.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\Joueur.cs",
+              "RelativeToolTip": "Joueur.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowCkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:33:42.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\I5_6TTIUAA14_PonchautNicolas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:33:10.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

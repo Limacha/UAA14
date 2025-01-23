@@ -45,7 +45,7 @@ namespace I5_6TTIUAA14_PonchautNicolas
                         }
                         else
                         {
-                            Console.WriteLine("...");
+                            Console.WriteLine("pas su tirez");
                         }
                         break;
                     case ConsoleKey.R:

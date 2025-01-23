@@ -41,7 +41,7 @@ namespace I5_6TTIUAA14_PonchautNicolas
                 _nbCartoucheEnPoche -= _nbCartoucheEnPoche;
                 return $"=> Recharge de {_gun.BallesChargeur} balles dans le chargeur effectuée";
             }
-            return "...";
+            return "A sec";
         }
         /// <summary>
         /// tir une ball

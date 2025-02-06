@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\",
+  "WorkspaceRootPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|solutionrelative:methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|c:\\users\\nico\\github\\uaa14\\wpf\\uaa14_i4_ponchautnicolas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2A5841D0-9CBD-437E-85FD-5067D7276C69}|UAA14_I4_PonchautNicolas.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MethodesDuProjet.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MethodesDuProjet.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MethodesDuProjet.cs",
               "RelativeDocumentMoniker": "MethodesDuProjet.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MethodesDuProjet.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MethodesDuProjet.cs",
               "RelativeToolTip": "MethodesDuProjet.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAYwIQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:47:10.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T11:47:10.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-14T11:45:57.81Z",
@@ -51,11 +50,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_I4_PonchautNicolas\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAYwGQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj": {}
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj": {
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj",
+        "projectUniqueName": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj",
         "projectName": "UAA14_24_I2_PonchautNicolas",
-        "projectPath": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj",
+        "projectPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\UAA14_24_I2_PonchautNicolas.csproj",
         "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\obj\\",
+        "outputPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\UAA14_24_I2_PonchautNicolas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

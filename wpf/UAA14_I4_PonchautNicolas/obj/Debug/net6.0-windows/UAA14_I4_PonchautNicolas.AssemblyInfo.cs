@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UAA14_I4_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f521784d1f8374c238e9ca84ed6beb8e70c1c7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3883bbf17fdb2aa1c9764fff323cf7b1c1dd59ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("UAA14_I4_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UAA14_I4_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\source\\repos\\wpf_act1_ex2\\wpf_act1_ex2.csproj": {}
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act1\\wpf_act1_ex2\\wpf_act1_ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\source\\repos\\wpf_act1_ex2\\wpf_act1_ex2.csproj": {
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act1\\wpf_act1_ex2\\wpf_act1_ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\source\\repos\\wpf_act1_ex2\\wpf_act1_ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act1\\wpf_act1_ex2\\wpf_act1_ex2.csproj",
         "projectName": "wpf_act1_ex2",
-        "projectPath": "C:\\Users\\Nico\\source\\repos\\wpf_act1_ex2\\wpf_act1_ex2.csproj",
+        "projectPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act1\\wpf_act1_ex2\\wpf_act1_ex2.csproj",
         "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\source\\repos\\wpf_act1_ex2\\obj\\",
+        "outputPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act1\\wpf_act1_ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

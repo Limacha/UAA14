@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5E6CF31-9D5C-45AB-A8F9-8536F7EE871E}|Act4_NicolasPonchaut.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\act4_nicolasponchaut\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5E6CF31-9D5C-45AB-A8F9-8536F7EE871E}|Act4_NicolasPonchaut.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E6CF31-9D5C-45AB-A8F9-8536F7EE871E}|Act4_NicolasPonchaut.csproj|c:\\users\\nico\\documents\\github\\uaa14\\wpf\\act4_nicolasponchaut\\views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E6CF31-9D5C-45AB-A8F9-8536F7EE871E}|Act4_NicolasPonchaut.csproj|solutionrelative:views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\Act4_NicolasPonchaut\\Views\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\Act4_NicolasPonchaut\\Views\\Page2.xaml.cs",
+              "RelativeToolTip": "Views\\Page2.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:07:25.948Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,9 +57,10 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\Act4_NicolasPonchaut\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAzwBwAAABCAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwB8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:50:51.231Z"
+              "WhenOpened": "2024-11-07T11:50:51.231Z",
+              "EditorCaption": ""
             }
           ]
         }

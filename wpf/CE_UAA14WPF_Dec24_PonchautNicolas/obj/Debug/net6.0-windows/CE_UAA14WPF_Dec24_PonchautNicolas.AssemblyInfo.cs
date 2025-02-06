@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CE_UAA14WPF_Dec24_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f418157688a2bfc023d38f96feaa72013a60923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3883bbf17fdb2aa1c9764fff323cf7b1c1dd59ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CE_UAA14WPF_Dec24_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CE_UAA14WPF_Dec24_PonchautNicolas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

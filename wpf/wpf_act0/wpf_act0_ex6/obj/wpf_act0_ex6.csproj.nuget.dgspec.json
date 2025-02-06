@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\source\\repos\\wpf_act0_ex6\\wpf_act0_ex6.csproj": {}
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act0\\wpf_act0_ex6\\wpf_act0_ex6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\source\\repos\\wpf_act0_ex6\\wpf_act0_ex6.csproj": {
+    "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act0\\wpf_act0_ex6\\wpf_act0_ex6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\source\\repos\\wpf_act0_ex6\\wpf_act0_ex6.csproj",
+        "projectUniqueName": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act0\\wpf_act0_ex6\\wpf_act0_ex6.csproj",
         "projectName": "wpf_act0_ex6",
-        "projectPath": "C:\\Users\\Nico\\source\\repos\\wpf_act0_ex6\\wpf_act0_ex6.csproj",
+        "projectPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act0\\wpf_act0_ex6\\wpf_act0_ex6.csproj",
         "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\source\\repos\\wpf_act0_ex6\\obj\\",
+        "outputPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\wpf\\wpf_act0\\wpf_act0_ex6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

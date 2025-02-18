@@ -12,6 +12,8 @@ namespace POOAct11.classe
         private Salle _salle;
         private List<double> _listNotes = new List<double>();
 
+        public string Nom { get { return Nom; } }
+
         public Cours(string nom, Salle salle)
         {
             _nom = nom;

@@ -8,6 +8,7 @@ namespace POOAct11.classe
 {
     public struct InfoCours
     {
+        public Cours cours;
         public double note;
     }
 }

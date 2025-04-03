@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\Act12_BarCocktail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B0117A-554D-4B2E-A391-5AB0172E5672}|Act12_BarCocktail.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\act12_barcocktail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B0117A-554D-4B2E-A391-5AB0172E5672}|Act12_BarCocktail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B0117A-554D-4B2E-A391-5AB0172E5672}|Act12_BarCocktail.csproj|c:\\users\\nico\\documents\\github\\uaa14\\c#\\act12_barcocktail\\barman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B0117A-554D-4B2E-A391-5AB0172E5672}|Act12_BarCocktail.csproj|solutionrelative:barman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarMan.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\Act12_BarCocktail\\BarMan.cs",
+              "RelativeDocumentMoniker": "BarMan.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\Act12_BarCocktail\\BarMan.cs",
+              "RelativeToolTip": "BarMan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:38:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\Act12_BarCocktail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nico\\Documents\\github\\UAA14\\c#\\Act12_BarCocktail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:29:43.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

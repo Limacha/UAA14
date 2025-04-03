@@ -1,0 +1,15 @@
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\bin\Debug\net6.0\Act12_BarCocktail.exe
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\bin\Debug\net6.0\Act12_BarCocktail.deps.json
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\bin\Debug\net6.0\Act12_BarCocktail.runtimeconfig.json
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\bin\Debug\net6.0\Act12_BarCocktail.dll
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\bin\Debug\net6.0\Act12_BarCocktail.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.AssemblyInfoInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.AssemblyInfo.cs
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.sourcelink.json
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.dll
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\refint\Act12_BarCocktail.dll
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.pdb
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\Act12_BarCocktail.genruntimeconfig.cache
+C:\Users\Nico\Documents\github\UAA14\c#\Act12_BarCocktail\obj\Debug\net6.0\ref\Act12_BarCocktail.dll

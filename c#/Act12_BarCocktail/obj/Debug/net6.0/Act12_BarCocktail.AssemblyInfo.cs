@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act12_BarCocktail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da9b5c4978c3eccb4fbd4b902b09b2cae04761a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2943d3ff1c5e66fad30e52d7d01d2faa2ff8d26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act12_BarCocktail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act12_BarCocktail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

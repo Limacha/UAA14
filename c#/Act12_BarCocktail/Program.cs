@@ -7,6 +7,10 @@
             Console.Title = "Bar à cocktail";
             bool run = true;
 
+            //desoler je ne peut pas debuger facilement se programme car si j'afficher le bar le cmd bug
+            //aparament le menu, la cave aussi
+            //encore desoler mais je n'ai pas la passion de continue a faire le main alors que sa bug comme sa
+
             #region creation variable
             // Création des liquides
             Liquide rhum = new Liquide("Rhum", 50);
@@ -76,26 +80,25 @@
             do
             {
                 Console.Clear();
-                //to big
-                Console.WriteLine(
-                    $"--------------------------------------------------------------\n" +
-                    $"{cave.ToString()}\n" +
-                    $"\n{bar.ToString()}\n" +
-                    $"\nbarMan:\n" +
-                    $"{barMan1.ToString()}\n" +
-                    $"{barMan2.ToString()}\n" +
-                    $"\nclient:\n" +
-                    $"{client1.ToString()}\n" +
-                    $"{client2.ToString()}\n"
-                );
+                //pas write cave ou bar sinon to big
+                Console.WriteLine($"\n{bar.Name}");
+                Console.WriteLine($"barman");
+                Console.WriteLine($"{barMan1.ToString()}");
+                Console.WriteLine($"{barMan2.ToString()}");
+                Console.WriteLine($"\nclient");
+                Console.WriteLine($"{client1.ToString()}");
+                Console.WriteLine($"{client2.ToString()}");
                 Console.WriteLine("qui fait une actions?\nq)quiter\nc)client\nb)barman\n");
                 switch (Console.ReadKey().Key)
                 {
+                    //quiter le programme
                     case ConsoleKey.Q:
+                        Console.Clear();
+                        Console.WriteLine("Au revoir");
                         run = false;
                         break;
+                    //faire une action avec un client
                     case ConsoleKey.C:
-                        Console.SetCursorPosition(0, 0);
                         Console.Clear();
                         Console.WriteLine($"client:\n" +
                             $"{client1.ToString()}\n" +
@@ -104,30 +107,34 @@
                         switch (Console.ReadKey().Key)
                         {
                             case ConsoleKey.D1:
-                                Console.SetCursorPosition(0, 0);
                                 Console.Clear();
                                 Console.WriteLine($"{client1.ToString()}\n");
                                 Console.WriteLine("Quel actions faire?\nc)choisir\nf)commande\nr)rendre\n");
                                 switch (Console.ReadKey().Key)
                                 {
                                     case ConsoleKey.C:
-                                        client1.Choisir(menu);
+                                        Console.Clear();
+                                        Console.WriteLine(client1.Choisir(menu));
                                         break;
                                     case ConsoleKey.F:
+                                        Console.Clear();
                                         break;
                                     case ConsoleKey.R:
+                                        Console.Clear();
                                         break;
                                 }
                                 break;
                             case ConsoleKey.D2:
-                                Console.SetCursorPosition(0, 0);
                                 Console.Clear();
                                 Console.WriteLine($"{client2.ToString()}\n");
                                 Console.WriteLine("Quel actions faire?\nc)choisir\nf)commande\nr)rendre\n");
                                 switch (Console.ReadKey().Key)
                                 {
+                                    default:
+                                        Console.Clear();
+                                        break;
                                     case ConsoleKey.C:
-                                        client2.Choisir(menu);
+                                        Console.WriteLine(client2.Choisir(menu));
                                         break;
                                     case ConsoleKey.F:
                                         break;
@@ -137,8 +144,8 @@
                                 break;
                         }
                         break;
+                    //faire une action avec un barman
                     case ConsoleKey.B:
-                        Console.SetCursorPosition(0, 0);
                         Console.Clear();
                         Console.WriteLine($"barMan:\n" +
                             $"{barMan1.ToString()}\n" +
@@ -146,31 +153,35 @@
                         Console.WriteLine("Quels barMan 1/2\n");
                         switch (Console.ReadKey().Key)
                         {
+                            //barman 1
                             case ConsoleKey.D1:
-                                Console.SetCursorPosition(0, 0);
                                 Console.Clear();
                                 Console.WriteLine($"{barMan1.ToString()}\n");
                                 Console.WriteLine("Quel actions faire?\ns)stop\nw)work\n");
                                 switch (Console.ReadKey().Key)
                                 {
+                                    //arreter de travailler
                                     case ConsoleKey.S:
                                         barMan1.StopWork(cave);
                                         break;
+                                    //travailler
                                     case ConsoleKey.W:
                                         barMan1.Work(cave, bar);
                                         break;
                                 }
                                 break;
+                            //barman 2
                             case ConsoleKey.D2:
-                                Console.SetCursorPosition(0, 0);
                                 Console.Clear();
                                 Console.WriteLine($"{barMan2.ToString()}\n");
                                 Console.WriteLine("Quel actions faire?\ns)stop\nw)work\n");
                                 switch (Console.ReadKey().Key)
                                 {
+                                    //arreter de travailler
                                     case ConsoleKey.S:
                                         barMan1.StopWork(cave);
                                         break;
+                                    //travailler
                                     case ConsoleKey.W:
                                         barMan1.Work(cave, bar);
                                         break;
@@ -179,8 +190,7 @@
                         }
                         break;
                 }
-                Console.Clear();
-            } while (false);
+            } while (run);
         }
     }
 }
